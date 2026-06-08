@@ -1,1 +1,1 @@
-# gbad repos
+# gbad repo
