@@ -2,4 +2,5 @@
 new variant
 badge
 # striving 
-comit
+commit 
+new
