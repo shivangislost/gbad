@@ -4,4 +4,4 @@ badge
 # striving 
 commit 
 new badge shark
-testing 2
+testing 
